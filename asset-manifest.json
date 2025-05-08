@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/2.1.github.io/static/js/main.830e7ef5.js",
-    "index.html": "/2.1.github.io/index.html",
-    "main.830e7ef5.js.map": "/2.1.github.io/static/js/main.830e7ef5.js.map"
+    "main.js": "/reactmov/static/js/main.830e7ef5.js",
+    "index.html": "/reactmov/index.html",
+    "main.830e7ef5.js.map": "/reactmov/static/js/main.830e7ef5.js.map"
   },
   "entrypoints": [
     "static/js/main.830e7ef5.js"
